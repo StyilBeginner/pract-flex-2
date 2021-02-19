@@ -1,3 +1,13 @@
 /* BEGIN (write your solution here) */
-
+body {
+	margin: 0;
+	padding: 0;
+}
+.catalog {
+	display: flex;
+	flex-wrap: wrap;
+}
+.catalog-item {
+	width: 350px;
+}
 /* END */
